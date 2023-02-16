@@ -14,7 +14,7 @@ frame.pack(padx = 10, pady = 10)
 # now to put things in the frame
 # lets create a button
 
-button = Button(frame, text = "dont click here")
+button = Button(frame, text = "Don't click here")
 button2 = Button(frame, text = "...or here")
 button3 = Button(frame, text = "Click here instead!!")
 
