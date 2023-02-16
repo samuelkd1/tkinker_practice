@@ -20,6 +20,6 @@ button3 = Button(frame, text = "Click here instead!!")
 
 button.grid(row = 0, column = 0)
 button2.grid(row = 1, column = 0)
-button3.grid(row = 3, column = 0)
+button3.grid(row = 2, column = 0)
 
 root.mainloop()
