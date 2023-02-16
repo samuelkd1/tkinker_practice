@@ -1,0 +1,5 @@
+
+ # ignore all.png files
+*.png
+/images
+*.DS_Store
